@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "date": "2026-04-01",
+    "amount": 50000,
+    "type": "income",
+    "category": "Salary",
+    "description": "Monthly salary"
+  },
+  {
+    "id": 2,
+    "date": "2026-04-02",
+    "amount": 1200,
+    "type": "expense",
+    "category": "Food",
+    "description": "Groceries"
+  },
+  {
+    "id": 3,
+    "date": "2026-04-03",
+    "amount": 800,
+    "type": "expense",
+    "category": "Transport",
+    "description": "Petrol"
+  },
+  {
+    "id": 4,
+    "date": "2026-04-05",
+    "amount": 2000,
+    "type": "income",
+    "category": "Freelance",
+    "description": "Project payment"
+  },
+  {
+    "id": 5,
+    "date": "2026-04-06",
+    "amount": 1500,
+    "type": "expense",
+    "category": "Shopping",
+    "description": "Clothes"
+  },
+  {
+    "id": 6,
+    "date": "2026-04-08",
+    "amount": 1000,
+    "type": "expense",
+    "category": "Bills",
+    "description": "Electricity bill"
+  },
+  {
+    "id": 7,
+    "date": "2026-04-10",
+    "amount": 3000,
+    "type": "income",
+    "category": "Bonus",
+    "description": "Performance bonus"
+  },
+  {
+  "id": 8,
+  "date": "2026-04-11",
+  "amount": 600,
+  "type": "expense",
+  "category": "Food",
+  "description": "Restaurant dinner"
+}
+]

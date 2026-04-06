@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+} 
+.top{
+   margin:1.75rem;
+   border: 2px solid pink;
+   border-radius: 2%;
+   padding: 0.5rem;
+    
+}
+.section1, .section2{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.section2{
+    font-style: italic;
+    margin-top: 0.25rem;
+    color: rgb(61, 49, 49);
+}
+h1{
+    text-align: center;
+    margin-top:1.25rem ;
+    margin-bottom:0.98rem ;
+}
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.9rem;
+    box-shadow: 5px 5px 10px 10px pink ;
+    background-color: rgb(213, 241, 171) ;
+    color: rgb(74, 63, 224);
+    font-style:italic ;
+
+}
+.pie, .line{
+     margin: 2.5rem;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+       transition: all 0.3s ease; 
+
+
+}
+button{
+    background-color: rgb(199, 199, 248);
+}
+button:hover{
+    color:red;
+}
+h2 {
+    color: rgb(214, 96, 96);
+    margin: 1.25rem;
+}
+.searchbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 1.25rem;
+    gap: 1.35rem;
+    margin-bottom: 1.2rem;
+    color: rgb(105, 101, 101);
+    background-color: rgb(240, 235, 235);
+    box-shadow: 4px 4px 2px rgb(145, 142, 142) inset;
+    padding:1.25rem;
+}
+.searchbar select   {
+    box-shadow: 1px 1px 0px rgb(105, 101, 101);
+    font-size: 1.25rem;
+    
+}
+ #role   {
+   width: 100%;
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background-color: #fff;
+  cursor: pointer;
+
+   
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  
+}
+ 
